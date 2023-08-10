@@ -83,12 +83,12 @@ body {
 body {
     font-family: monospace !important;
     background-color: #000 !important;
-    color: #99ff00 !important
+    color: #FF0099 !important
 }
 
 a {
     text-decoration: none;
-    color: #00ffb3 !important
+    color: #FF0099 !important
 }
 
 a:hover {
